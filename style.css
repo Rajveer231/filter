@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(lime,pink,blue,magenta,yellow,cyan,orange,violet);
+}
+.container{
+    text-align:center;
+}
